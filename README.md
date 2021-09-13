@@ -1,7 +1,7 @@
 # MODUL-PHP
 REPOSITORY MODUL PHP 1 DAN 2
 
-MODUL 1
+#MODUL 1
 LATIHAN 1
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%201/LATIHAN%201-A.png)
 
@@ -18,7 +18,7 @@ LATIHAN 5
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%201/LATIHAN5-A(1).png)
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%201/LATIHAN5-A(2).png)
 
-MODUL 2
+#MODUL 2
 LATIHAN 1
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%202/LATIHAN1-B.png)
 
@@ -48,3 +48,26 @@ LATIHAN 9
 
 LATIHAN 10
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%202/LATIHAN10.png)
+
+#MODUL 3
+LATIHAN 1
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan1.png)
+
+LATIHAN 2
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan2.png)
+
+LATIHAN 3
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan3.png)
+
+LATIHAN 4
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan4.png)
+
+LATIHAN 5
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan5.png)
+
+LATIHAN 6
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan6.png)
+
+#MODUL4
+KONVERSI SUHU
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%204/Konversi%20Suhu.png)
