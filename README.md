@@ -69,5 +69,17 @@ LATIHAN 6
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%203/Latihan6.png)
 
 #MODUL4
+LATIHAN 1
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%204/Latihan1.png)
+
+LATIHAN 2
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%204/Latihan2.png)
+
+LATIHAN 3
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%204/Latihan3.png)
+
+LATIHAN 4
+![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%204/Latihan4.png)
+
 KONVERSI SUHU
 ![alt text](https://github.com/AnandaKW/MODUL-PHP/blob/master/MODUL%204/Konversi%20Suhu.png)
